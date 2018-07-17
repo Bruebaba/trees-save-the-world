@@ -1,3 +1,36 @@
 body {
-    background-color: rgb(155, 155, 104);
+    font-family: monospace
+  
+    
+}
+h1{
+    color: darkolivegreen;
+}
+.me {
+    width: 350px;
+}
+h2 {
+    color: brown;
+}
+nav a {
+    text-decoration: none;
+    color: blueviolet;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+.gallery {
+    margin: 15px;
+    border: 1px solid crimson;
+    width: 400px;
+
+}
+.gallery img {
+    width: 100%;
+    height: auto;
+
+}
+.desc {
+    padding: 15px;
+    text-align: center;
 }
